@@ -1,1 +1,4 @@
 node_modules
+aws
+.env
+.prod.env
